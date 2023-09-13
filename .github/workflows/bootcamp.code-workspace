@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../inso-bootstrap-cli"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../inso-extpipes-cli"
+		},
+		{
+			"path": "../../../python-extractor-example"
+		},
+		{
+			"path": "../../../bootcamp-functions"
+		}
+	],
+	"settings": {}
+}
